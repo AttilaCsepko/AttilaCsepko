@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-https://www.credly.com/badges/9bd06b85-aa8e-43c2-841c-8ba3e68d734d/public_url
-
 <!--
 **AttilaCsepko/AttilaCsepko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
